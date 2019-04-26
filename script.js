@@ -77,4 +77,3 @@ BtnCloseOldItems();
 //every time the click happens.
 btnAdd.addEventListener("click", addListAfterClick);
 input.addEventListener("keypress", addListAfterKeypress);
-//ul.addEventListener("click",addCheckSym);
